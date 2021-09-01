@@ -4,7 +4,10 @@
 
 # 使用步骤
 
-`pip install -r requirements.txt`
+## 环境配置
+`pip install -r requirements.txt`  
+然后配置selenium，我使用的是chrome浏览器，参考https://www.cnblogs.com/lfri/p/10542797.html  
+修改`main.py`中webdriver的`executable_path`路径
 
 ## 简单使用
 1. 首先登录[360SRC](https://src.360.net/) 
