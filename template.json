@@ -1,0 +1,18 @@
+{
+  "fields": {
+    "repair": "该漏洞已提交厂商，关注厂商首页https://www.baidu.com/及时更新系统版本。",
+    "info": "该系统的接口未校验权限导致未授权访问，攻击者可直接获取管理员账号和密码。",
+    "steps": "1.访问{{ url }}/password.txt获取到账号密码\n2.登录后台{{ url }}/admin/login.html\n验证完毕。",
+    "company": "{{ company }}",
+    "title": "{{ site_title }}存在未授权访问",
+    "component": "通用漏洞组件名称",
+    "url": "{{ url }}",
+    "site_title": "{{ site_title }}",
+    "site_ip": "{{ site_ip }}"
+  },
+  "variables": {
+    "url": "https://www.baidu.com/",
+    "site_title": "百度一下",
+    "company": "北京百度网讯科技有限公司"
+  }
+}

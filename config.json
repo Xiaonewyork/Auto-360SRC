@@ -1,0 +1,17 @@
+{
+  "cookies": {
+    "Q_UDID": "2db46eb0-xxxx-xxxx-xxxx-60e75399e57b",
+    "sessionID": "xxxx55a1ef4fxxxxf0687ee0e619xxxx"
+  },
+  "xpath": {
+    "repair": "//*[@id=\"q-editor-repairPlan_editor\"]/div[2]/div[2]/div[1]/p",
+    "info": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[12]/div/div[1]/textarea",
+    "steps": "//*[@id=\"q-editor-recStep_editor\"]/div[2]/div[2]/div[1]",
+    "company": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[1]/div/div[1]/div[1]/input",
+    "title": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[3]/div/div[1]/input",
+    "component": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[6]/div[2]/div/div[1]/input",
+    "url": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[8]/div[1]/div/div[1]/div/input",
+    "site_title": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[9]/div/div[1]/input",
+    "site_ip": "//*[@id=\"app\"]/div/div[1]/div/div[2]/div/div[1]/div[1]/section/form/div[10]/div/div[1]/input"
+  }
+}
